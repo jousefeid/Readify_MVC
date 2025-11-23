@@ -25,10 +25,10 @@ namespace ReadifyWeb.Controllers
         [HttpPost]
         public IActionResult Create(Category obj)
         {
-            //if (obj.Name == obj.DisplayOrder.ToString())
-            //{
-            //    ModelState.AddModelError("name", "The DisplayOrder Can't excactly mach the name");
-            //}
+            if (obj.Name == obj.DisplayOrder.ToString())
+            {
+                ModelState.AddModelError("name", "The DisplayOrder Can't excactly mach the name");
+            }
             if (ModelState.IsValid)
             {
                 _db.Categories.Add(obj);
@@ -36,6 +36,9 @@ namespace ReadifyWeb.Controllers
             }
             return View();
         }
+        
+        
+
 
 
     }
