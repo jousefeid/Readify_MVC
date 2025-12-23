@@ -49,13 +49,6 @@ I build scalable web applications using ASP.NET Core MVC, clean OOP principles, 
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-![GitHub Stats](https://github.com/jousefeid)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefEid&layout=compact)
-
----
 
 <h3 align="left">🚀 What I'm Working On</h3>
 
