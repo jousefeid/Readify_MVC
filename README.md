@@ -51,7 +51,7 @@ I build scalable web applications using ASP.NET Core MVC, clean OOP principles, 
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefEid&show_icons=true&theme=default)
+![GitHub Stats](https://github.com/jousefeid)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefEid&layout=compact)
 
@@ -69,9 +69,8 @@ I build scalable web applications using ASP.NET Core MVC, clean OOP principles, 
 <h3 align="left">📫 Contact Me</h3>
 
 - GitHub: https://github.com/YoussefEid
-- LinkedIn: *(add your LinkedIn link here)*
-- Email: *(optional)*
-
+- LinkedIn: https://www.linkedin.com/in/youssefeid-/
+- Email: youssefeidomar@gmail.com
 ---
 
 ⭐ **Feel free to check out my repositories and projects!**
